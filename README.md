@@ -17,7 +17,7 @@ Here is how to complete tasks in this module:
 
 2. Make sure you completed steps, described in the Prerequisites section
 
-3. Complete the task, described in the Requirements section 
+3. Complete the task, described in the Requirements section
 
 4. Run `scripts/generate-artifacts.ps1` to generate task artifacts. Script will update the file `artifacts.json` in this repo. 
 
